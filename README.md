@@ -1,0 +1,1 @@
+heroku login; heroku buildpacks:set diezep/flutter -a thesimplified; heroku config:set FLUTTER_VERSION=3.3.10 -a thesimplified
